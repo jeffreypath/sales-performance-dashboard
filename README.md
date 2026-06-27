@@ -18,6 +18,8 @@ Power BI, DAX, Microsoft Excel
 
 Public practice dataset from Excelx.com. Contains 1,500 rows of retail sales transactions across five regions and multiple store locations, covering salesperson performance, discount and promotion impact, payment methods, and regional revenue breakdown.
 
+https://excelx.com/practice-data/sales-retail/
+
 ## Screenshots
 
 <img width="1437" height="805" alt="sales-performance-dashboard-p1" src="https://github.com/user-attachments/assets/e1964655-0429-4273-92f6-81b351123acc" />
