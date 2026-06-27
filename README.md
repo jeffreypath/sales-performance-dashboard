@@ -16,9 +16,7 @@ Power BI, DAX, Microsoft Excel
 
 ## Data Source
 
-Public practice dataset from Excelx.com. Contains 1,500 rows of retail sales transactions across five regions and multiple store locations, covering salesperson performance, discount and promotion impact, payment methods, and regional revenue breakdown.
-
-https://excelx.com/practice-data/sales-retail/
+Public practice dataset from [Excelx.com](https://excelx.com/practice-data/sales-retail/). Contains 1,500 rows of retail sales transactions across five regions and multiple store locations, covering salesperson performance, discount and promotion impact, payment methods, and regional revenue breakdown.
 
 ## Screenshots
 
